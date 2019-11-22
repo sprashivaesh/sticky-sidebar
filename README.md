@@ -1,3 +1,4 @@
+# comment global variant
 # Sticky Sidebar [![Build Status](https://travis-ci.org/abouolia/sticky-sidebar.svg?branch=3.2.0)](https://travis-ci.org/abouolia/sticky-sidebar)
 
 Pure JavaScript plugin for making smart and high performance sticky sidebars.
